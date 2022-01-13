@@ -109,7 +109,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:fontFamily="@font/regular"
-            android:text="17°"
+            android:text="16°"
             android:textColor="@color/white"
             android:textSize="60dp"
             app:layout_constraintEnd_toEndOf="@+id/imageView"
